@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mətn və Font Dərsi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Web Proqramlaşdırma Təlimi</h1>
+    <h2>Mətn Formatlaşdırma Nümunəsi</h2>
+
+    <p class="p1">
+        Web dizayn öyrənərkən font seçimi çox əhəmiyyətlidir. 
+        Oxunaqlı mətn istifadəçi təcrübəsini inkişaf etdirir və 
+        dizaynın keyfiyyətini artırır.
+    </p>
+
+    <p class="p2">
+        CSS vasitəsilə mətnin rəngini, ölçüsünü, hizalanmasını və digər 
+        xüsusiyyətlərini rahatlıqla idarə etmək mümkündür.
+    </p>
+
+    <p class="p3">
+        Düzgün fontlar, söz və hərf aralıqları seçildikdə mətn 
+        daha aydın və cəlbedici olur.
+    </p>
+
+</body>
+</html>
